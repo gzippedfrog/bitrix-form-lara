@@ -8,7 +8,7 @@
 
 затем
 ```bash
-$ cp .env.exmple .env
+$ cp .env.example .env
 ```
 
 указать правильные значения для id телеграм канала и URL битрикс24 в .env:
